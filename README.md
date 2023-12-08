@@ -12,6 +12,7 @@ As the name suggest this project is a clone of the twitter website (now known as
     SECRET = "Any secret of your choice"
    ```
 2. Then open 2 terminals and write the following:
+   
    -In the first terminal:
    ```
    cd backend

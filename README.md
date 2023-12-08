@@ -4,4 +4,6 @@ As the name suggest this project is a clone of the twitter website (now known as
 2. Like a tweet.
 3. Comment on a tweet.
 4. Bookmark a tweet.
+# Refer below steps to run the project
+
 

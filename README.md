@@ -12,12 +12,11 @@ As the name suggest this project is a clone of the twitter website (now known as
     SECRET = "Any secret of your choice"
    ```
 2. Install the dependencies
-   In the terminal write:
+   Inside the terminal write:
    ```
    npm install
    ```
 3. Then open 2 terminals and write the following:
-   
    In the first terminal:
    ```
    cd backend
@@ -28,5 +27,8 @@ As the name suggest this project is a clone of the twitter website (now known as
    cd frontend
    npm start
    ```
+## Screenshots
+![Home Page/User Feed](https://github.com/Yash851/Twitter-Clone/assets/64217975/0f2aaee9-1c11-4a23-98b6-939d5c8690d2)
+
 
 

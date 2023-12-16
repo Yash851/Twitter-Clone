@@ -11,7 +11,12 @@ As the name suggest this project is a clone of the twitter website (now known as
     CONNECTION_URI= "Enter Connection URI of your MongoDb Cloud database"
     SECRET = "Any secret of your choice"
    ```
-2. Then open 2 terminals and write the following:
+2. Install the dependencies
+   In the terminal write:
+   ```
+   npm install
+   ```
+3. Then open 2 terminals and write the following:
    
    In the first terminal:
    ```

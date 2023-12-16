@@ -27,7 +27,7 @@ As the name suggest this project is a clone of the twitter website (now known as
    cd frontend
    npm start
    ```
-# Note:- To use the features use must first create an account and then sign in with that account or else you will get an error!
+# Note:- To use the features use must first create an account and then sign in with that account or else you will get an error!Also this project is still a work in progress and there are many other features and pages to be added.
 ## Screenshots
 ### Home page/User Feed
 ![Home Page/User Feed](https://github.com/Yash851/Twitter-Clone/assets/64217975/0f2aaee9-1c11-4a23-98b6-939d5c8690d2)
